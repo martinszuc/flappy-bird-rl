@@ -1,0 +1,2 @@
+Avg reward: 3.229999999999991
+Avg steps: 87.1
