@@ -1,0 +1,17 @@
+# Core dependencies
+gymnasium==1.2.2
+flappy-bird-gymnasium==0.4.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data & visualization
+numpy>=2.0.0
+matplotlib>=3.10.0
+imageio>=2.37.0
+
+# Video processing
+moviepy>=1.0.3
+
+# Optional but useful
+jupyter>=1.0.0
+ipython>=8.0.0
